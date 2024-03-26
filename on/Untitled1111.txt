@@ -1,0 +1,5 @@
+-Địa chỉ của biên mảng A là phần tử của địa chỉ a[0],1 ô bằng 4 byte:a[5]=5 nhân 4 =20
+-Địa chỉ của mảng 1 chiều là địa chỉ của ô nhớ đầu tiên.
+-Khai báo mảng trong hàm được ngầm định là con trỏ .
+-Con trỏ lưu địa chỉ của 1 ô nhớ(biến) trong bộ nhớ ảo.
+-p_a = a hoặc p_a=&a[0]

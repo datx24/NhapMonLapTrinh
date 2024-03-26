@@ -1,0 +1,6 @@
+Xây dựng hàm xử lý mảng 1 chiều:
+1)Nhập giá trị cho các phần tử trong mảng
+a[0]
+a[1]
+a[yN-1] : B1:Mảng có ? phần tử
+	  B2:Nhập giá trị các phần tử n[0]...n[n-1]
